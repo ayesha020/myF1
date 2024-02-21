@@ -1,0 +1,71 @@
+.header{
+    height: 200px;
+    background-repeat: no-repeat;
+    /* background-image: url(../myF1/images/images.png); */
+    /* kno hoi na   */
+    background-image:url('images/images.png');
+    background-color: rgb(224, 231, 233);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 500px;
+   width: 990px;
+   border-image:repeat;
+   background-position: center;
+   margin-left: 400px;
+   margin-top: 50px;
+
+}
+
+.p{
+    color: red;
+}
+.body{
+    background-color: rgb(206, 24, 24);
+}
+.page-title{
+    color: rgb(182, 65, 65);
+    font-size: 80px;
+    height: 90px;
+    width: 850px;
+    background-color: whitesmoke;
+    box-shadow:10px 13px 15px rgb(109, 94, 145);
+    margin-top: 20px; 
+}
+.fun{
+    background-color:rgb(246, 245, 247);
+    margin:50px;
+    height: 900px;
+   
+   
+    
+}
+.first{
+    width: 150px;
+  height: 80px;
+  transform: skewY(20deg); 
+
+}
+.sec{
+    width: 150px;
+    height: 80px;
+  
+transform:skewY(20deg); 
+margin-top: 215px;
+margin-left: 240px;
+
+}
+.third{
+    /* margin-top: 240px;
+    margin-left: 742px;
+transform: scale(1.5); */
+/* height: 30px;
+width: 50px; */
+margin-left: 500px;
+}
+.fourth{
+    width: 150px;
+  height: 80px;
+  transform: skewY(20deg);
+  margin-left: 1050px;
+  
+}
