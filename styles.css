@@ -20,7 +20,7 @@
     color: red;
 }
 .body{
-    background-color: rgb(206, 24, 24);
+    background-color: rgb(167, 28, 28);
 }
 .page-title{
     color: rgb(182, 65, 65);
@@ -67,5 +67,4 @@ margin-left: 500px;
   height: 80px;
   transform: skewY(20deg);
   margin-left: 1050px;
-  
 }
